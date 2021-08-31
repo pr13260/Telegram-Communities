@@ -27,6 +27,7 @@ A collection of awesome development telegram channels and groups. Like programme
 - [BOTS UNIVERSE](https://telegram.me/Bots_universe), [BOTS UNIVERSE SUPPORT](https://telegram.me/venilabots1)
 - [Heiman Developer](https://telegram.dog/HeimanSupports), [Heiman Support](https://telegram.dog/HeimanSupport)
 - [TG FREE BOTS](https://telegram.me/TG_Free_Bots)
+- [AV Botz](https://telegram.me/AVBotz), [AVBotz Support](https://telegram.me/AVBotz_Support)
 
 ## Tech Support 
 
@@ -48,6 +49,10 @@ A collection of awesome development telegram channels and groups. Like programme
 
 - [Pyrogram](https://telegram.me/Pyrogram), [Pyrogram Support](https://telegram.me/PyrogramChat)
 - [Python Telegram Bot](https://telegram.me/pythontelegrambotchannel), [Python Telegram Bot Support](https://telegram.me/pythontelegrambotgroup)
+
+## Educational Channels
+
+- [Team Librarian™](https://telegram.me/Team_Librarian/68)
 
 ---
 
