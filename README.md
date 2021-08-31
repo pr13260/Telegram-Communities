@@ -21,6 +21,7 @@ A collection of awesome development telegram channels and groups. Like programme
 
 - [Bot News](https;//telegram.me/BotNews), [Bot Talk](https://telegram.me/BotTalk)
 - [Fayas Noushad](https://telegram.me/FayasNoushad)
+- [THE OSTRICH](https://telegram.me/theostrich)
 - [Universal Projects](https://telegram.me/Universal_Projects)
 - [MeG Bots](https://telegram.dog/MeGBots)
 - [EK BOTZ PROJECT](https://telegram.me/EKBOTZ_UPDATE), [EK BOTZ TALKS](https://telegram.me/ekbotz_support)
@@ -33,6 +34,7 @@ A collection of awesome development telegram channels and groups. Like programme
 
 - [Developer Team](https://telegram.me/TheDeveloperTeam)
 - [JV Community](https://t.me/JV_Community)
+- [Ostrich Discussion](https://telegram.me/ostrichdiscussion)
 
 ## Bot List Collection
 
@@ -44,6 +46,7 @@ A collection of awesome development telegram channels and groups. Like programme
 - [Anonymous Courses](https://telegram.dog/course_group)
 - [The Syndicate Seven](https://telegram.dog/the_ssc_chat)
 - [Network Slutter](https://telegram.dog/netslutter)
+- [Udemy_Blaster](https://telegram.dog/Udemy_Blaster)
 
 ## Framework Support
 
