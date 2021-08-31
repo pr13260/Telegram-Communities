@@ -21,7 +21,6 @@ A collection of awesome development telegram channels and groups. Like programme
 
 - [Bot News](https;//telegram.me/BotNews), [Bot Talk](https://telegram.me/BotTalk)
 - [Fayas Noushad](https://telegram.me/FayasNoushad)
-- [THE OSTRICH](https://telegram.me/theostrich)
 - [Universal Projects](https://telegram.me/Universal_Projects)
 - [MeG Bots](https://telegram.dog/MeGBots)
 - [EK BOTZ PROJECT](https://telegram.me/EKBOTZ_UPDATE), [EK BOTZ TALKS](https://telegram.me/ekbotz_support)
@@ -29,12 +28,12 @@ A collection of awesome development telegram channels and groups. Like programme
 - [Heiman Developer](https://telegram.dog/HeimanSupports), [Heiman Support](https://telegram.dog/HeimanSupport)
 - [TG FREE BOTS](https://telegram.me/TG_Free_Bots)
 - [AV Botz](https://telegram.me/AVBotz), [AVBotz Support](https://telegram.me/AVBotz_Support)
+- [THE OSTRICH](https://telegram.me/theostrich), [Ostrich Discussion](https://telegram.me/ostrichdiscussion)
 
 ## Tech Support 
 
 - [Developer Team](https://telegram.me/TheDeveloperTeam)
 - [JV Community](https://t.me/JV_Community)
-- [Ostrich Discussion](https://telegram.me/ostrichdiscussion)
 
 ## Bot List Collection
 
