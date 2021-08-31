@@ -32,6 +32,7 @@ A collection of awesome development telegram channels and groups. Like programme
 
 - [Developer Team](https://telegram.me/TheDeveloperTeam)
 - [JV Community](https://t.me/JV_Community)
+- [Devszone](https://t.me/DevsZone)
 
 ## Bot List Collection
 
