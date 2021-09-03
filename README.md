@@ -49,7 +49,12 @@ A collection of awesome development telegram channels and groups. Like programme
 
 ## Framework Support
 
-- [Pyrogram](https://telegram.me/Pyrogram), [Pyrogram Support](https://telegram.me/PyrogramChat)
+- [Pyrogram](https://telegram.me/Pyrogram)
+  - [Pyrogram English ( Official )](https://telegram.me/PyrogramChat)
+  - [Pyrogram Persian](https://telegram.me/pyrogramir)
+  - [Pyrogram Russian](https://telegram.me/rupyrogram)
+  - [Pyrogram Hebrew](https://telegram.me/pyrogramhe)
+  - [Pyrogram Offtopic](https://telegram.me/pyrogramlounge)
 - [Python Telegram Bot](https://telegram.me/pythontelegrambotchannel), [Python Telegram Bot Support](https://telegram.me/pythontelegrambotgroup)
 
 ## Educational Channels
