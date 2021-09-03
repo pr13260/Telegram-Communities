@@ -15,7 +15,13 @@ A collection of awesome development telegram channels and groups. Like programme
 - [Telegram Brazil](https://telegram.me/TelegramBR)
 - [Telegram Indonesia](https://telegram.me/Telegramindonesia)
 - [Plus Messenger Official](https://telegram.me/plusmsgr)
-- [Plus Messenger English](https://telegram.me/plusmsgrchat)
+  - [Plus Messenger English](https://telegram.me/plusmsgrchat)
+  - [Todo Sobre Plus Messenger Español](https://telegram.me/TodoSobrePlusMessenger)
+  - [Plus Messenger Türkçe](https://telegram.me/plusmsgrchattr)
+  - [Plus Messenger Русский](https://telegram.me/plusmsgrchatru)
+  - [Plus Messenger O'zbek](https://telegram.me/plusmsgrchatuz)
+  - [Plus Messenger العربية](https://telegram.me/plusmsgrarchat)
+  - [Plus Messenger فارسى](https://telegram.me/plusmsgrchatir)
 
 ## Bot Development 
 
