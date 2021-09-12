@@ -12,6 +12,8 @@ A collection of awesome development telegram channels and groups. Like programme
 ## Bot Development 
 
 - [Bot Talk](https://telegram.me/BotTalk)
+- [Developer Team](https://telegram.me/TheDeveloperTeam)
+- [JV Community](https://t.me/JV_Community)
 - [EK Bots](https://telegram.me/ekbotz_support)
 - [Bots Universe](https://telegram.me/venilabots1)
 - [Heiman Support](https://telegram.dog/HeimanSupport)
