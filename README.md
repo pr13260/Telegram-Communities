@@ -35,6 +35,16 @@ A collection of awesome development telegram channels and groups. Like programme
 - [Pyrogram](https://telegram.me/PyrogramChat)
 - [Python Telegram Bot](https://telegram.me/pythontelegrambotgroup)
 
+## Application Support
+
+- [Telegram Android](https://telegram.me/TelegramAndroidTalk)
+- [Telegram Desktop](https://telegram.me/TelegramDesktopTalk)
+- [Telegram MacOs](https://telegram.me/TelegramMacOsTalk)
+- [Telegram iOS](https://telegram.me/TelegramiOStalk)
+- [Plus Messenger](https://telegram.me/plusmsgrchat)
+- [Telegram Beta](https://telegram.me/tgbetachat)
+- [BGram](https://telegram.me/BGramOfficial)
+
 ---
 
 > **Note:** If you want to add your good telegram communities to this, you can make a pull request.
