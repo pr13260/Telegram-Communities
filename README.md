@@ -32,7 +32,7 @@ A collection of awesome development telegram channels and groups. Like programme
 
 ## Framework Support
 
-- [Pyrogram English ( Official )](https://telegram.me/PyrogramChat)
+- [Pyrogram](https://telegram.me/PyrogramChat)
 - [Python Telegram Bot](https://telegram.me/pythontelegrambotgroup)
 
 ---
