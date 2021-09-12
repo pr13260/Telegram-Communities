@@ -65,7 +65,7 @@ A collection of awesome development telegram channels and groups. Like programme
 
 ## Educational Channels
 
-- [Team Librarian™](https://telegram.me/Team_Librarian/68)
+- [Team Librarian](https://telegram.me/Team_Librarian)
 
 ---
 
