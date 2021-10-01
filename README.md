@@ -30,7 +30,7 @@ A collection of awesome development telegram channels and groups. Like programme
 - [Anonymous Courses](https://telegram.dog/course_group)
 - [The Syndicate Seven](https://telegram.dog/the_ssc_chat)
 - [Network Slutter](https://telegram.dog/netslutter)
-- [Udemy_Blaster](https://telegram.dog/Udemy_Blaster)
+- [Udemy Blaster](https://telegram.dog/Udemy_Blaster)
 
 ## Framework Support
 
