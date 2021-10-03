@@ -31,6 +31,7 @@ A collection of awesome development telegram channels and groups. Like programme
 - [The Syndicate Seven](https://telegram.dog/the_ssc_chat)
 - [Network Slutter](https://telegram.dog/netslutter)
 - [Udemy Blaster](https://telegram.dog/Udemy_Blaster)
+- [Hacking Courses](https://t.me/hacking_courses)
 
 ## Framework Support
 
